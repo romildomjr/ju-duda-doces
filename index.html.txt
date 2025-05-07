@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Ju&Duda Doces Artesanais</title>
+    <link rel="stylesheet" href="style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <header>
+        <h1>🍰 Ju&Duda Doces Artesanais</h1>
+        <p>Doces feitos com amor e carinho para você!</p>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#sobre">Sobre</a></li>
+            <li><a href="#produtos">Produtos</a></li>
+            <li><a href="#contato">Contato</a></li>
+        </ul>
+    </nav>
+
+    <section id="sobre">
+        <h2>Sobre Nós</h2>
+        <p>Há mais de 5 anos fazendo doces artesanais com ingredientes de qualidade e muito amor.</p>
+    </section>
+
+    <section id="produtos">
+        <h2>Nossos Produtos</h2>
+        <ul>
+            <li>Brigadeiro Gourmet</li>
+            <li>Bem-Casado</li>
+            <li>Beijinho</li>
+            <li>Cupcake Decorado</li>
+            <li>Tortas Finas</li>
+        </ul>
+    </section>
+
+    <section id="contato">
+        <h2>Contato</h2>
+        <p>📞 WhatsApp: (99) 99999-9999</p>
+        <p>📍 Entregamos em toda a cidade</p>
+        <p>📧 Email: ju.duda.doces@gmail.com</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Ju&Duda Doces Artesanais</p>
+    </footer>
+</body>
+</html>
