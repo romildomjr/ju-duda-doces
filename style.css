@@ -49,3 +49,26 @@ footer {
     text-align: center;
     padding: 10px;
 }
+/* Estilo do banner com logo */
+.banner {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    background-color: #ff99cc;
+}
+
+.logo {
+    height: 80px; /* ajuste conforme necessário */
+    margin-right: 20px;
+    border-radius: 10px;
+}
+
+.texto-banner h1 {
+    margin: 0;
+    font-size: 24px;
+}
+
+.texto-banner p {
+    margin: 5px 0 0 0;
+    font-size: 14px;
+}
